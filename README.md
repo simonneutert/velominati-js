@@ -2,7 +2,7 @@
 
 **Please bear in mind, that I intentionally added the source to every rule object!**
 
-_The authors of the http://www.velominati.com were not reachable to ask for permission._ :fearful:
+_The authors of the http://www.velominati.com had not yet given their permission to publish this package._ :fearful:
 
 Please, **always** add the source to their website when using the quotes!
 
