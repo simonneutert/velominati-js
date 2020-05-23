@@ -1,0 +1,27 @@
+{
+  "name": "velominati-js",
+  "version": "1.0.0",
+  "description": "rules for cyclists from the keepers of the cog - official source: http://velominati.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonneutert/velominati-js.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "velominati",
+    "cycling"
+  ],
+  "author": "Simon Neutert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonneutert/velominati-js/issues"
+  },
+  "homepage": "https://github.com/simonneutert/velominati-js#readme"
+}
