@@ -1,14 +1,14 @@
 # velominati-js
 
-**Please bear in mind, that I intentionally added the source to every rule object.**
+**Please bear in mind, that I intentionally added the source to every rule object!**
 
-The authors of the http://velominati.com were not reachable to ask permission. 
+_The authors of the http://www.velominati.com were not reachable to ask for permission._ :fearful:
 
-Please, add the source to their website when using the quotes.
+Please, always add the source to their website when using the quotes!
 
-I do 100 % respect what they put out for the cyclists around the world.
+I do 100 % respect what they put out for all us cyclists around the world.
 
-If you like their work and use this repo, at least buy a copy of their [book on amazon](https://amzn.to/3bX6IQg).
+If you like their work and/or use this repo, at least buy a copy of their [book on amazon](https://amzn.to/3bX6IQg).
 
 ## npm 
 
