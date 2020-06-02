@@ -226,4 +226,9 @@ module.exports = class Velominati {
       }
     })
   }
+
+  rule(ruleId) {
+    const number = parseInt(ruleId)
+    return this.rules[number - 1]
+  }
 }
