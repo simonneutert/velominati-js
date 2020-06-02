@@ -1,6 +1,6 @@
 {
   "name": "velominati-js",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "rules for cyclists from the keepers of the cog - official source: http://velominati.com",
   "main": "index.js",
   "scripts": {
