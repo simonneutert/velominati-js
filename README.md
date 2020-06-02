@@ -22,6 +22,9 @@ console.log(v.rules) // [{rule: {index: Integer, title: String, text: String, so
 const rule1 = v.rules[0]
 const rule95 = v.rules[94]
 
+// access rules 1 to 95
+console.log(v.rule(33))
+
 console.log(v.rule95)
 
 // structure of a rule object
