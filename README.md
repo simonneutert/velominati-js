@@ -2,7 +2,7 @@
 
 **Please bear in mind, that I intentionally added the source to every rule object!**
 
-_The authors of the http://www.velominati.com had not yet given their permission to publish this package._ :fearful:
+_The authors of the http://www.velominati.com have not replied to my request, giving their permission to publish this package. I advise you to contact the keepers of the cog, when using this code and let them know. I am very sure they are happy to know!_
 
 Please, **always** add the source to their website when using the quotes!
 
