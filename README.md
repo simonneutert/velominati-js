@@ -17,17 +17,14 @@ const Velominati = require('velominati-js');
 
 const v = new Velominati
 
-console.log(v.rules) // [{rule: {index: Integer, title: String, text: String, source: 'https://www.velominati.com/#the-rules'}}, ...]
-
-const rule1 = v.rules[0]
-const rule95 = v.rules[94]
+const rule1 = v.rules[1]
+// rule1.title => String
+// rule2.text => String
+const rule95 = v.rules[95]
 
 // access rules 1 to 95
 console.log(v.rule(33))
-
-// structure of a rule object
-//
-// rule: {
+// => {
 //   index: Integer,
 //   title: String,
 //   text: String,
